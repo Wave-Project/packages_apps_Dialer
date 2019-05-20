@@ -18,6 +18,5 @@
   <style name="DialtactsTheme" parent="DialtactsThemeBase">
     <item name="android:windowLightNavigationBar">true</item>
     <item name="android:navigationBarColor">?android:windowBackground</item>
-    <item name="android:navigationBarDividerColor">#E0E0E0</item>
   </style>
 </resources>
