@@ -28,5 +28,5 @@
      https://copyright.lawmatters.in/2012/02/recording-telephonic-conversations.html
 -->
 <resources>
-
+     <bool name="call_recording_enabled">true</bool>
 </resources>
